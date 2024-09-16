@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\resources\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\resources\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\resources\\sharedresource.tr-tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\resources\\sharedresource.tr-tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|c:\\users\\demir\\desktop\\yeniprojeler\\flightreservation\\flightreservation.mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1F1E6-E230-4562-AF24-E036C854163C}|FlightReservation.MVC\\FlightReservation.MVC.csproj|solutionrelative:flightreservation.mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 610,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FlightReservation.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T19:30:04.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Services\\LanguageService.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Services\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Services\\LanguageService.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Services\\LanguageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:15:07.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedResource.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Resources\\SharedResource.en-US.resx",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Resources\\SharedResource.en-US.resx",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Resources\\SharedResource.en-US.resx",
+              "RelativeToolTip": "FlightReservation.MVC\\Resources\\SharedResource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-15T17:43:01.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedResource.tr-TR.resx",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Resources\\SharedResource.tr-TR.resx",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Resources\\SharedResource.tr-TR.resx",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Resources\\SharedResource.tr-TR.resx",
+              "RelativeToolTip": "FlightReservation.MVC\\Resources\\SharedResource.tr-TR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-15T17:42:48.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FlightReservation.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:20:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FlightReservation.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:19:28.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:18:03.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:17:18.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:44:07.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "FlightReservation.MVC\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T13:17:35.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FlightReservation.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T13:16:45.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "FlightReservation.MVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T13:15:39.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Program.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:12:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:24:53.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:16:49.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FlightReservation.MVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\Models\\User.cs",
+              "RelativeToolTip": "FlightReservation.MVC\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:41:37.084Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
