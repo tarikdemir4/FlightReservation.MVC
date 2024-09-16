@@ -129,11 +129,17 @@
   <data name="FirstName" xml:space="preserve">
     <value>Ad</value>
   </data>
+  <data name="FlightReservation" xml:space="preserve">
+    <value>Uçuş Rezervasyonu</value>
+  </data>
   <data name="GotoRegisterPage" xml:space="preserve">
     <value>Ücretsiz Kayıt Ol</value>
   </data>
   <data name="GotToLoginPage" xml:space="preserve">
     <value>Zaten hesabınız var mı?</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Ana Sayfa</value>
   </data>
   <data name="LastName" xml:space="preserve">
     <value>Soyad</value>
@@ -150,11 +156,17 @@
   <data name="Password" xml:space="preserve">
     <value>Şifre</value>
   </data>
+  <data name="Planes" xml:space="preserve">
+    <value>Uçaklar</value>
+  </data>
   <data name="RegisterForm" xml:space="preserve">
     <value>Kayıt Formu</value>
   </data>
   <data name="RegisterFormDescription" xml:space="preserve">
     <value>Kaydolmak için lütfen bilgielerinizi doldurunuz.</value>
+  </data>
+  <data name="Routes" xml:space="preserve">
+    <value>Rotalar</value>
   </data>
   <data name="SignIn" xml:space="preserve">
     <value>Giriş Yap</value>

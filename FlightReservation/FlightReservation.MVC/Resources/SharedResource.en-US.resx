@@ -129,11 +129,17 @@
   <data name="FirstName" xml:space="preserve">
     <value>First Name</value>
   </data>
+  <data name="FlightReservation" xml:space="preserve">
+    <value>Flight Reservation</value>
+  </data>
   <data name="GotoRegisterPage" xml:space="preserve">
     <value>Free Register</value>
   </data>
   <data name="GotToLoginPage" xml:space="preserve">
     <value>Already have an account?</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
   </data>
   <data name="LastName" xml:space="preserve">
     <value>Last Name</value>
@@ -150,11 +156,17 @@
   <data name="Password" xml:space="preserve">
     <value>Password</value>
   </data>
+  <data name="Planes" xml:space="preserve">
+    <value>Planes</value>
+  </data>
   <data name="RegisterForm" xml:space="preserve">
     <value>Register Form</value>
   </data>
   <data name="RegisterFormDescription" xml:space="preserve">
     <value>Please fill your information to register</value>
+  </data>
+  <data name="Routes" xml:space="preserve">
+    <value>Routes</value>
   </data>
   <data name="SignIn" xml:space="preserve">
     <value>Sign In</value>

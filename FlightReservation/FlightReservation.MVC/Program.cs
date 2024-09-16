@@ -1,14 +1,12 @@
 using FlightReservation.MVC.Context;
-using FlightReservation.MVC.Controllers;
 using FlightReservation.MVC.Models;
+using FlightReservation.MVC.Repositories;
 using FlightReservation.MVC.Services;
 using Microsoft.AspNetCore.Localization;
-using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using System.Globalization;
 using System.Reflection;
-using System.Resources;
 
 namespace FlightReservation.MVC;
 
@@ -17,6 +15,8 @@ public class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+        builder.Services.AddScoped<UserRepository>();
+        builder.Services.AddScoped<PlaneRepository>();
 
         #region Localization
         builder.Services.AddSingleton<LanguageService>();
@@ -51,7 +51,7 @@ public class Program
             options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer"));
         });
 
-        builder.Services.AddAuthentication("CookieAuth").AddCookie("CookieAuth",configuration =>
+        builder.Services.AddAuthentication("CookieAuth").AddCookie("CookieAuth", configuration =>
         {
             configuration.AccessDeniedPath = "/Account/Login";
             configuration.LoginPath = "/Account/Login";
@@ -84,14 +84,15 @@ public class Program
         using (var scope = app.Services.CreateScope())
         {
             var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-            if (!context.Set<User>().Any(p => p.Email == "demirtarik4@gmail.com"))
+            var result = context.Set<User>().Any(p => p.Email == "demirtarik44@gmail.com");
+            if (!result)
             {
                 User user = new()
                 {
                     FirstName = "Tarýk",
                     LastName = "Demir",
-                    Email = "demirtarik4@gmail.com",
-                    Password = "Password12*"
+                    Email = "demirtarik44@gmail.com",
+                    Password = "Pas"
                 };
 
                 context.Set<User>().Add(user);
@@ -112,6 +113,7 @@ public class Program
                     RoleId = role.Id,
                     UserId = user.Id
                 });
+                context.SaveChanges();
             }
         }
 

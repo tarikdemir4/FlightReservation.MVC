@@ -51,12 +51,12 @@
 
                     <div class="form-group">
                         <label>@localization.Getkey("Email").Value</label>
-                        <input type="email" class="form-control" name="email" required minlenght="3" />
+                        <input type="email" class="form-control" name="email" required minlenght="3" value="@ViewBag.Email" />
                     </div>
 
                     <div class="form-group mt-2">
                         <label>@localization.Getkey("Password").Value</label>
-                        <input type="password" class="form-control" name="password" required minlenght="6" maxlength="6" />
+                        <input type="password" class="form-control" name="password" required minlenght="6" maxlength="6" value="@ViewBag.Password" />
                     </div>
 
                     <div class="form-group mt-2">
@@ -64,6 +64,7 @@
 
                     </div>
                 </form>
+                <p class="text-danger text-center"> @ViewBag.Error</p>
 
             </div>
 
