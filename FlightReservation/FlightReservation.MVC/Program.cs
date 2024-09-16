@@ -51,11 +51,12 @@ public class Program
             options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer"));
         });
 
-        builder.Services.AddAuthentication().AddCookie(configuration =>
+        builder.Services.AddAuthentication("CookieAuth").AddCookie("CookieAuth",configuration =>
         {
             configuration.AccessDeniedPath = "/Account/Login";
             configuration.LoginPath = "/Account/Login";
             configuration.ExpireTimeSpan = TimeSpan.FromHours(1);
+            configuration.Cookie.Name = "UserLoginCookie";
         });
 
         builder.Services.AddControllersWithViews();

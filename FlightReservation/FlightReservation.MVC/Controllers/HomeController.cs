@@ -8,11 +8,11 @@ namespace FlightReservation.MVC.Controllers;
 [Authorize]
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
 
 
     public IActionResult Index()
     {
+        var user = User.Claims;
         return View();
     }
 
