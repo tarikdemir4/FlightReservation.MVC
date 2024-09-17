@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XVtWK9ihvFuqJ1KuKYUCL/X3KTq1AUsV/utM7VRq158=",
+  "Hash": "eLeoeQdF5IoomV2AngW0gbSGXG+zefW7vd4dG48jKIY=",
   "Source": "FlightReservation.MVC",
   "BasePath": "_content/FlightReservation.MVC",
   "Mode": "Default",
@@ -2238,6 +2238,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\wwwroot\\css\\ticket.css",
+      "SourceId": "FlightReservation.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\wwwroot\\",
+      "BasePath": "_content/FlightReservation.MVC",
+      "RelativePath": "css/ticket.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ticket.css"
     },
     {
       "Identity": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\wwwroot\\dist\\css\\adminlte.css",
