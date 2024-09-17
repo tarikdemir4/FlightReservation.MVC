@@ -32,4 +32,11 @@ public class PlanesController(PlaneRepository planeRepository) : Controller
         planeRepository.Add(plane);
         return RedirectToAction("Index");
     }
+
+    [HttpGet]
+    public IActionResult RemoveById(Guid id)
+    {
+        planeRepository.RemoveById(id);
+        return RedirectToAction("Index");
+    }
 }

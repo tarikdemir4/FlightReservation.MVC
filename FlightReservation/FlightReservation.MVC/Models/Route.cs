@@ -9,6 +9,5 @@ public sealed class Route
     public DateTime ArrivalTime { get; set; }
     public Guid PlaneId { get; set; }
     public Plane? Plane { get; set; }
-
 }
 
