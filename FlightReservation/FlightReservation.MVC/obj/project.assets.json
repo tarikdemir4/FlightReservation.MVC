@@ -4724,11 +4724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\FlightReservation.MVC.csproj",
+      "projectUniqueName": "C:\\GitHub\\FlightReservation.MVC\\FlightReservation\\FlightReservation.MVC\\FlightReservation.MVC.csproj",
       "projectName": "FlightReservation.MVC",
-      "projectPath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\FlightReservation.MVC.csproj",
+      "projectPath": "C:\\GitHub\\FlightReservation.MVC\\FlightReservation\\FlightReservation.MVC\\FlightReservation.MVC.csproj",
       "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\demir\\Desktop\\YeniProjeler\\FlightReservation\\FlightReservation.MVC\\obj\\",
+      "outputPath": "C:\\GitHub\\FlightReservation.MVC\\FlightReservation\\FlightReservation.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
